@@ -51,25 +51,28 @@ $$
 ## Results and Visualisations
 
 ### Face Detection Output
-
-![Face Detection](Downloads\face_detected.jpeg)
 ![face_detected](https://github.com/user-attachments/assets/23fa3772-84d8-43f0-a236-8097c82b6191)
 
 
 ### K-Means Clustering of Detected Faces (Hue vs Saturation)
-![K means clustering (hue vs saturation)](Downloads\output1.png)
+<img width="1005" height="547" alt="output1" src="https://github.com/user-attachments/assets/79aa78dd-7a43-4666-ad0f-6460a851eb62" />
+
 
 ### K-Means Clustering of Faces Scatter plot(Hue vs Saturation)
-![K means clustering (hue vs saturation)](Downloads\plot1_lab5.png)
+<img width="1005" height="547" alt="plot1_lab5" src="https://github.com/user-attachments/assets/9079805e-6147-421c-b03d-0c34e7e8d60d" />
+
 
 ### Face Detection Output Shashi Tharoor
-![Face Detection](Downloads\shashi_tharoor.jpeg)
+![shashi_tharoor](https://github.com/user-attachments/assets/3edc79c4-441b-4131-b93c-4505ab3e78b8)
+
 
 ### Template face cluster prediction (Hue vs Saturation)
-![K means clustering (hue vs saturation)](Downloads\output2.png)
+<img width="1005" height="547" alt="output2" src="https://github.com/user-attachments/assets/43211da8-c7bc-414a-8002-5782bd0f889e" />
+
 
 ### K-Means Clustering of Faces Scatter plot for template image(Hue vs Saturation)
-![K means clustering (hue vs saturation)](Downloads\plot2_lab5.png)
+<img width="1005" height="547" alt="plot2_lab5" src="https://github.com/user-attachments/assets/54f53913-bb5c-45f7-bec0-2fc47d949bb4" />
+
 
 
 
