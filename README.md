@@ -53,6 +53,8 @@ $$
 ### Face Detection Output
 
 ![Face Detection](Downloads\face_detected.jpeg)
+![face_detected](https://github.com/user-attachments/assets/23fa3772-84d8-43f0-a236-8097c82b6191)
+
 
 ### K-Means Clustering of Detected Faces (Hue vs Saturation)
 ![K means clustering (hue vs saturation)](Downloads\output1.png)
