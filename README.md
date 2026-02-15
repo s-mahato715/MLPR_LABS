@@ -83,14 +83,7 @@ $$
 - Template image was successfully classified into the nearest cluster.
 - HSV color space provides meaningful representation for color-based clustering.
 - Model performance depends on lighting conditions.
-
-## Limitations
-
-- This is clustering, not face recognition.
-- Only color-based features were used.
-- Sensitive to illumination changes.
-- Accuracy decreases in varied lighting conditions.
-
+- 
 ## Conclusion
 
 This project demonstrates the use of:
@@ -103,20 +96,3 @@ This project demonstrates the use of:
 The system successfully clusters faces based on color similarity and predicts the class of a new template image.
 
 Although basic, this approach builds a foundation for advanced face recognition and clustering systems.
-
-## Future Improvements
-
-- Use deep learning-based face embeddings.
-- Apply PCA for dimensionality reduction.
-- Use cosine similarity instead of Euclidean distance.
-- Improve lighting normalization techniques.
-- Increase dataset size for better clustering performance.
-
-## Technologies Used
-
-- Python
-- OpenCV
-- NumPy
-- Matplotlib
-- Scikit-Learn
-- Jupyter Notebook
