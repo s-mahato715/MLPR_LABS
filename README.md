@@ -83,7 +83,6 @@ $$
 - Template image was successfully classified into the nearest cluster.
 - HSV color space provides meaningful representation for color-based clustering.
 - Model performance depends on lighting conditions.
-- 
 ## Conclusion
 
 This project demonstrates the use of:
